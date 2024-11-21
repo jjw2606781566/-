@@ -55,3 +55,5 @@
 
 **实现了左右手使用不同动画层级**
 例如左手拳和右手剑
+
+![无标题视频——使用Clipchamp制作 (9)](https://github.com/user-attachments/assets/ef88899e-8768-4d33-bde4-8e4cb4bba6f7)
