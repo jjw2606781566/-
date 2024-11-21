@@ -10,11 +10,11 @@
 **摄像机Camera：** 
 
 **实现了摄像机固定绕玩家一定距离旋转的平滑过渡**
-[gif]
+
 ![无标题视频——使用Clipchamp制作](https://github.com/user-attachments/assets/4b622ed9-e20f-464a-9b3a-fb85243f0971)
 
 **实现了摄像机遇到障碍自动拉近距离，离开障碍自动恢复距离**
-[gif]
+
 ![无标题视频——使用Clipchamp制作 (1)](https://github.com/user-attachments/assets/9af58322-d408-4331-aa5c-3b7426af9fe1)
 
 **角色Charactor：** 
