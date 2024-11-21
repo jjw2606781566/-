@@ -51,6 +51,10 @@
 
 **➡实现了锁定敌人功能**
 
+使用BoxOverlap加Mask进行检测，对碰撞到Layer为Enemy的敌人进行排序，优先锁定距离玩家最近的敌人
+
+可通过鼠标滚轮对锁定物体进行切换
+
 ![无标题视频——使用Clipchamp制作 (3)](https://github.com/user-attachments/assets/40550f1f-c651-4388-a922-3677c09ca9ba)
 
 **➡实现了左右手使用不同动画层级**
