@@ -3,11 +3,11 @@
 
 **当前已拥有功能：**
 
-**控制器Controller：** 实现了输入和利用携程进行单击和按压的判断，使用可变参数来调整单机间隔为多少秒时为按压
+**⭐控制器Controller：** 实现了输入和利用携程进行单击和按压的判断，使用可变参数来调整单机间隔为多少秒时为按压
 
 ![image](https://github.com/user-attachments/assets/bff37340-8424-47f3-bb88-7b287e0686e6)
 
-**摄像机Camera：** 
+**⭐摄像机Camera：** 
 
 **实现了摄像机固定绕玩家一定距离旋转的平滑过渡**
 
@@ -17,7 +17,7 @@
 
 ![无标题视频——使用Clipchamp制作 (1)](https://github.com/user-attachments/assets/9af58322-d408-4331-aa5c-3b7426af9fe1)
 
-**角色Charactor：** 
+**⭐角色Charactor：** 
 
 **状态机预览**
 
