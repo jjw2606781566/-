@@ -9,21 +9,21 @@
 
 **⭐摄像机Camera：** 
 
-**实现了摄像机固定绕玩家一定距离旋转的平滑过渡**
+**➡实现了摄像机固定绕玩家一定距离旋转的平滑过渡**
 
 ![无标题视频——使用Clipchamp制作](https://github.com/user-attachments/assets/4b622ed9-e20f-464a-9b3a-fb85243f0971)
 
-**实现了摄像机遇到障碍自动拉近距离，离开障碍自动恢复距离**
+**➡实现了摄像机遇到障碍自动拉近距离，离开障碍自动恢复距离**
 
 ![无标题视频——使用Clipchamp制作 (1)](https://github.com/user-attachments/assets/9af58322-d408-4331-aa5c-3b7426af9fe1)
 
 **⭐角色Charactor：** 
 
-**状态机预览**
+**➡状态机预览**
 
 ![image](https://github.com/user-attachments/assets/5d87fd3d-bc5e-4dbd-ba5f-d143ae377fac)
 
-**实现了基础操作、前摇后摇和指令预输入**
+**➡实现了基础操作、前摇后摇和指令预输入**
 
 移动和奔跑
 
@@ -49,11 +49,11 @@
 
 ![无标题视频——使用Clipchamp制作 (8)](https://github.com/user-attachments/assets/059658e9-c878-48f5-84f4-a8a05fe2160c)
 
-**实现了锁定敌人功能**
+**➡实现了锁定敌人功能**
 
 ![无标题视频——使用Clipchamp制作 (3)](https://github.com/user-attachments/assets/40550f1f-c651-4388-a922-3677c09ca9ba)
 
-**实现了左右手使用不同动画层级**
+**➡实现了左右手使用不同动画层级**
 例如左手拳和右手剑
 
 ![无标题视频——使用Clipchamp制作 (9)](https://github.com/user-attachments/assets/ef88899e-8768-4d33-bde4-8e4cb4bba6f7)
