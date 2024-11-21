@@ -47,7 +47,7 @@
 
 浮空与落下
 
-
+![无标题视频——使用Clipchamp制作 (8)](https://github.com/user-attachments/assets/059658e9-c878-48f5-84f4-a8a05fe2160c)
 
 **实现了锁定敌人功能**
 
