@@ -29,17 +29,29 @@
 
 ![无标题视频——使用Clipchamp制作 (2)](https://github.com/user-attachments/assets/6f2d6ad7-ea2a-4049-8ff6-d3f5b6abf3b1)
 
-锁定移动和奔跑
-
 轻击和重击
+
+![无标题视频——使用Clipchamp制作 (4)](https://github.com/user-attachments/assets/5c2ec108-1952-420f-8271-4fb64945849e)
 
 奔跑后轻击和重击
 
+![无标题视频——使用Clipchamp制作 (5)](https://github.com/user-attachments/assets/3f866a5b-c883-4d33-87ae-40aa041522d3)
+
 翻滚和翻滚后轻击
 
-受伤与死亡
+![无标题视频——使用Clipchamp制作 (6)](https://github.com/user-attachments/assets/5e4601f1-e606-455f-99ec-5a5fcbd9d1c6)
+
+受伤、受重伤和被击倒
+
+![无标题视频——使用Clipchamp制作 (7)](https://github.com/user-attachments/assets/5f9d497a-3462-4cd7-a15e-ceb3f381853e)
 
 浮空与落下
+
+
+
+**实现了锁定敌人功能**
+
+![无标题视频——使用Clipchamp制作 (3)](https://github.com/user-attachments/assets/40550f1f-c651-4388-a922-3677c09ca9ba)
 
 **实现了左右手使用不同动画层级**
 例如左手拳和右手剑
